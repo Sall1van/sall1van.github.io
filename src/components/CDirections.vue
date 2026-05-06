@@ -84,9 +84,9 @@
 </template>
 
 <script setup lang="ts">
-import JP from '@assets/icons/img/JP.png'
-import KR from '@assets/icons/img/KR.png'
-import CN from '@assets/icons/img/CN.png'
+import JP from '../assets/icons/img/JP.png'
+import KR from '../assets/icons/img/KR.png'
+import CN from '../assets/icons/img/CN.png'
 import checkCircle from '../assets/icons/svg/check-circle.svg'
 import arrowRight from '../assets/icons/svg/arrow-right.svg'
 import { ref, computed } from 'vue'

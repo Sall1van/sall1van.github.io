@@ -7,7 +7,6 @@ import svgLoader from 'vite-svg-loader'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/akira-import/',
   server: {
     port: 3000,
     strictPort: true,

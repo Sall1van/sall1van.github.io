@@ -2,7 +2,7 @@
   <footer>
     <div class="container">
       <div class="logo-block" @click="$emit('toPage', 'top')">
-        <img src="../assets/icons/img/akira-import.jpg" alt="Akira Import - привезём любой автомобиль прямо с аукционов Японии, Кореи и Китая." />
+        <img src="../../public/akira-import.jpg" alt="Akira Import - привезём любой автомобиль прямо с аукционов Японии, Кореи и Китая." />
         <div>
           <strong>Akira Import</strong>
           <p>Авто из Азии</p>

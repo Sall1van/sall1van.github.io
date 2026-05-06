@@ -4,7 +4,7 @@
       <a>
         <div class="logo-block">
           <img
-            src="../assets/icons/img/akira-import.jpg"
+            src="../../public/akira-import.jpg"
             alt="Akira Import - привезём любой автомобиль прямо с аукционов Японии, Кореи и Китая."
           />
           <div>

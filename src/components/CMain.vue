@@ -2,9 +2,9 @@
   <section>
     <div class="container">
       <ul class="countries">
-        <li><img src="../assets/icons/img/JP.png" />Япония</li>
-        <li><img src="../assets/icons/img/KR.png" />Корея</li>
-        <li><img src="../assets/icons/img/CN.png" />Китай</li>
+        <li><img src="../../public/JP.png" />Япония</li>
+        <li><img src="../../public/KR.png" />Корея</li>
+        <li><img src="../../public/CN.png" />Китай</li>
       </ul>
       <h1>
         <span>Пригоним авто</span>
